@@ -5,7 +5,8 @@
 
 ### 💫 About Me
 <hr>
-🔭 I’m currently working on Portfolio<br>👯 I’m looking to collaborate on React projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Node.js, Express.js<br>💬 Ask me about React, Redux<br>⚡ Fun fact I am lazy, but I am smart.
+
+🔭 I’m currently working on Portfolio<br>👯 I’m looking to collaborate on React projects<br>🌱 I’m currently learning Node.js, Express.js<br>💬 Ask me about React, Redux<br>📫 How to reach me **jeevanchoudhary2005@gmail.com** <br>⚡ Fun fact - I am lazy, but I am smart.
 
 
 ## 🌐 Socials
