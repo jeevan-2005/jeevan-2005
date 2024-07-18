@@ -18,7 +18,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevan-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevan-2005&theme=tokyonight&hide_border=false&include_all_commits=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan-2005&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
 </div>
