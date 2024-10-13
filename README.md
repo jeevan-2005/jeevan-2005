@@ -6,7 +6,7 @@
 ### 💫 About Me
 <hr>
 
-👯 I’m looking to collaborate on React projects<br>🌱 I’m currently working on Backend Projects<br>💬 Ask me about React, Redux<br>📫 How to reach me **jeevanchoudhary2005@gmail.com** <br>🔭 Visit my [Portfolio](https://g1-choudhary.vercel.app)<br>⚡ Fun fact - Null is not null, is an object.
+👯 I’m looking to collaborate on Full-Stack projects<br>🌱 I’m currently working on Backend Projects<br>💬 Ask me about React, Redux<br>📫 How to reach me **jeevanchoudhary2005@gmail.com** <br>🔭 Visit my [Portfolio](https://g1-choudhary.vercel.app)<br>⚡ Fun fact - Null is not null, is an object.
 
 
 ## 🌐 Socials
